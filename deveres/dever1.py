@@ -1,4 +1,4 @@
-import time
+aimport time
 import random
 
 def insertion_sort(lista):
